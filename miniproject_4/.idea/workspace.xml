@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31ba06b1-cf0a-4c60-9d79-88a39767f0ff" name="Default" comment="" />
+    <list default="true" id="73849646-98ee-4056-8051-04cadd65ef5e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,60 +12,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MatrixMultiply.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java">
+      <file leaf-file-name="OneDimAveragingPhaser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PCDP.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-20171025.051007-2.jar!/edu/rice/pcdp/PCDP.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2300">
-              <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
+            <state relative-caret-position="260">
+              <caret line="119" column="29" lean-forward="false" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MatrixMultiplyTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/MatrixMultiplyTest.java">
+      <file leaf-file-name="OneDimAveragingPhaserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtraTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ExtraTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2481#2482#0" expanded="true" />
-                <element signature="e#2511#2512#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -75,9 +42,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java" />
-        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/MatrixMultiplyTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ExtraTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java" />
       </list>
     </option>
   </component>
@@ -102,56 +68,71 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="parallel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="miniproject_3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="miniproject_3" type="462c0819:PsiDirectoryNode" />
+              <item name="miniproject_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="miniproject_4" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -161,13 +142,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,71 +156,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExtraTest.test2">
-    <configuration name="ExtraTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.OneDimAveragingPhaserTest">
+    <configuration name="OneDimAveragingPhaserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="edu.coursera.parallel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="miniproject_3" />
+      <module name="miniproject_4" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.ExtraTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MatrixMultiplyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="miniproject_3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.MatrixMultiplyTest" />
+      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.OneDimAveragingPhaserTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MatrixMultiplyTest.testPhaser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="edu.coursera.parallel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="miniproject_3" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="edu.coursera.parallel" />
-      <option name="MAIN_CLASS_NAME" value="edu.coursera.parallel.MatrixMultiplyTest" />
-      <option name="METHOD_NAME" value="testPhaser" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -337,16 +262,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MatrixMultiplyTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MatrixMultiplyTest.testPhaser" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ExtraTest.test2" />
-    </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.ExtraTest.test2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.MatrixMultiplyTest.testPhaser" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.MatrixMultiplyTest" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.OneDimAveragingPhaserTest" />
       </list>
     </recent_temporary>
   </component>
@@ -363,62 +281,59 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="31ba06b1-cf0a-4c60-9d79-88a39767f0ff" name="Default" comment="" />
-      <created>1509392041031</created>
+      <changelist id="73849646-98ee-4056-8051-04cadd65ef5e" name="Default" comment="" />
+      <created>1509571021644</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1509392041031</updated>
+      <updated>1509571021644</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExtraTest_test2 - 2017.11.01 at 23h 37m 09s.xml">
-      <configuration name="ExtraTest.test2" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 36m 49s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExtraTest_test2 - 2017.11.01 at 23h 37m 21s.xml">
-      <configuration name="ExtraTest.test2" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 37m 12s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExtraTest_test2 - 2017.11.01 at 23h 38m 52s.xml">
-      <configuration name="ExtraTest.test2" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 39m 31s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExtraTest_test2 - 2017.11.01 at 23h 38m 57s.xml">
-      <configuration name="ExtraTest.test2" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 44m 15s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ExtraTest_test2 - 2017.11.01 at 23h 39m 20s.xml">
-      <configuration name="ExtraTest.test2" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 45m 55s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MatrixMultiplyTest_testPhaser - 2017.11.01 at 22h 33m 58s.xml">
-      <configuration name="MatrixMultiplyTest.testPhaser" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 46m 33s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MatrixMultiplyTest_testPhaser - 2017.11.01 at 22h 38m 46s.xml">
-      <configuration name="MatrixMultiplyTest.testPhaser" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 47m 25s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MatrixMultiplyTest_testPhaser - 2017.11.01 at 22h 39m 27s.xml">
-      <configuration name="MatrixMultiplyTest.testPhaser" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 49m 36s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MatrixMultiplyTest_testPhaser - 2017.11.01 at 22h 40m 05s.xml">
-      <configuration name="MatrixMultiplyTest.testPhaser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixMultiplyTest_testPhaser - 2017.11.01 at 22h 41m 34s.xml">
-      <configuration name="MatrixMultiplyTest.testPhaser" configurationId="JUnit" />
+    <history-entry file="OneDimAveragingPhaserTest - 2017.11.02 at 21h 50m 10s.xml">
+      <configuration name="OneDimAveragingPhaserTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="63" y="-4" width="1857" height="1084" extended-state="6" />
+    <frame x="73" y="6" width="1859" height="1092" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40209424" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43979058" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -426,8 +341,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -444,85 +359,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="80" lean-forward="true" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-20171025.051007-2.jar!/edu/rice/pcdp/PCDP.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2300">
-          <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/MatrixMultiplyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2300">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-20171025.051007-2.jar!/edu/rice/pcdp/ProcedureInt1D.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-20171025.051007-2.jar!/edu/rice/pcdp/PCDP.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2300">
-          <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/MatrixMultiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/openjdk-8/src.zip!/java/util/concurrent/Phaser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="391" column="57" lean-forward="false" selection-start-line="391" selection-start-column="57" selection-end-line="391" selection-end-column="57" />
-          <folding>
-            <element signature="e#26323#26324#0" expanded="false" />
-            <element signature="e#26367#26368#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/MatrixMultiplyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="133" column="5" lean-forward="false" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        <state relative-caret-position="308">
+          <caret line="612" column="15" lean-forward="false" selection-start-line="612" selection-start-column="15" selection-end-line="612" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/ExtraTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/coursera/parallel/OneDimAveragingPhaserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="31" column="37" lean-forward="true" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2481#2482#0" expanded="true" />
-            <element signature="e#2511#2512#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/coursera/parallel/OneDimAveragingPhaser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="119" column="29" lean-forward="false" selection-start-line="119" selection-start-column="29" selection-end-line="119" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

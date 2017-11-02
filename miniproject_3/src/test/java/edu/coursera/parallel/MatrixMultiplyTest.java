@@ -1,8 +1,11 @@
 package edu.coursera.parallel;
 
-import java.util.Random;
-
 import junit.framework.TestCase;
+
+import java.util.Random;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Phaser;
 
 public class MatrixMultiplyTest extends TestCase {
     // Number of times to repeat each test, for consistent timing results.
@@ -103,7 +106,7 @@ public class MatrixMultiplyTest extends TestCase {
         final long seqTime = (seqEndTime - seqStartTime) / REPEATS;
         final long parTime = (parEndTime - parStartTime) / REPEATS;
 
-        return (double)seqTime / (double)parTime;
+        return (double) seqTime / (double) parTime;
     }
 
     /**
@@ -112,7 +115,7 @@ public class MatrixMultiplyTest extends TestCase {
     public void testPar512_x_512() {
         final int ncores = getNCores();
         double speedup = parTestHelper(512);
-        double minimalExpectedSpeedup = (double)ncores * 0.6;
+        double minimalExpectedSpeedup = (double) ncores * 0.6;
         final String errMsg = String.format("It was expected that the parallel implementation would run at " +
                 "least %fx faster, but it only achieved %fx speedup", minimalExpectedSpeedup, speedup);
         assertTrue(errMsg, speedup >= minimalExpectedSpeedup);
@@ -124,7 +127,7 @@ public class MatrixMultiplyTest extends TestCase {
     public void testPar768_x_768() {
         final int ncores = getNCores();
         double speedup = parTestHelper(768);
-        double minimalExpectedSpeedup = (double)ncores * 0.6;
+        double minimalExpectedSpeedup = (double) ncores * 0.6;
         final String errMsg = String.format("It was expected that the parallel implementation would run at " +
                 "least %fx faster, but it only achieved %fx speedup", minimalExpectedSpeedup, speedup);
         assertTrue(errMsg, speedup >= minimalExpectedSpeedup);
